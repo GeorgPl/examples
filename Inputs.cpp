@@ -22,5 +22,7 @@ int main (){
 
     cout <<  alterStd;
 
+    cout << "good bye" << endl;
+
    return 0;
 }
